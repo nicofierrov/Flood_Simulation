@@ -1,0 +1,24 @@
+{
+  "title": "",
+  "snippet": "",
+  "description": "",
+  "portalUrl": "https://www.arcgis.com",
+  "oauthappid": "",
+  "authMode": "anonymous",
+  "apiKey": null,
+  "group": "",
+  "webmap_stanwood": "aa6f83687aa24048a66b16a15a06b473",
+  "webmap": "d3e96b24ac9d421aa399fc9aec58b0b1",
+  "webscene": "",
+  "viewProps": {
+    "alphaCompositingEnabled": true
+  },
+  "depthVariableName": "B1",
+  "timeDimensionName": "StdTime",
+  "depthUnit": {
+    "name": "meters",
+    "label": "m"
+  },
+  "container": "view-container",
+  "shareable": []
+}
