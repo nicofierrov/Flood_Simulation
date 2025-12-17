@@ -1,0 +1,51 @@
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Build artifacts (if build process is added in future)
+dist/
+build/
+*.min.js
+*.min.css
+
+# Dependencies (if npm is added in future)
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Test coverage (if tests are added)
+coverage/
+.nyc_output/
+
+# Backup configuration files
+config/application.json.bak
+config/*.backup
+
+# Local server files
+*.pid
+*.seed
+*.pid.lock
